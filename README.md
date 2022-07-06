@@ -1,10 +1,10 @@
-### 👋
+### 👋 Estou organizando meus repositórios, em breve colocarei todos de volta ! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-1b9559229/)
 
 
 
 
-## My Technologies
+## Minhas tecnológias
 <div style="display: inline_block"><br/>
    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
