@@ -1,6 +1,6 @@
 ## Hey, I'm João Victor! 👋
 
-Full stack Developer
+Javascript Developer
 
 ## Connect with me 🚀
 
