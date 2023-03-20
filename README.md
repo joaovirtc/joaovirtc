@@ -1,6 +1,6 @@
 ## Hey, I'm João Victor! 👋
 
-Javascript Developer
+Junior Javascript Developer • Typescript • UI
 
 ## Connect with me 🚀
 
