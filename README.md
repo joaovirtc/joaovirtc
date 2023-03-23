@@ -1,4 +1,4 @@
-## Hey, I'm João Victor! 👋
+## Whats up ! 👋
 
 Junior Javascript Developer • Typescript • UI
 
