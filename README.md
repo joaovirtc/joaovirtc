@@ -1,6 +1,6 @@
 ## Whats up ! 👋
 
-Junior Software Engineer • Javascript • Typescript • UI
+Junior Software Developer • Javascript • Typescript • UI
 
 ## Connect with me 🚀
 
