@@ -1,6 +1,6 @@
 ## Whats up ! 👋
 
-Desenvolvedor de software full stack com 3 anos de experiência, especializado em Next.js, TypeScript, APIs escaláveis e Golang.
+Full stack software developer with 3 years of experience, specializing in Next.js, TypeScript, scalable APIs, and Golang.
 
 ## Connect with me 🚀
 
